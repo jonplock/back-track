@@ -9,4 +9,4 @@ def main(c, d):
     print(subtract(c, d))
 
 if __name__ == '__main__':
-    main(6, 7)
+    main(8, 4)
